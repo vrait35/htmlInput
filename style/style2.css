@@ -1,0 +1,78 @@
+.form1{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+.lege1{
+  text-align: center;
+  color:black;
+  margin: auto;
+}
+.lege1 label{
+  text-align: center;
+  color:red;
+  font-weight: bold;
+  font-size: 30px;
+}
+.fieldset1{
+padding: 20px;
+width: 250px;
+margin: auto;
+border: 2px solid red;
+}
+.form1 legend{
+  text-align: center;
+}
+input{
+  margin-bottom: 20px;
+}
+.sub1{
+  height: 40px;
+  border-radius:10px 10px 10px 30px;
+  border: 2px solid blue;
+  color:white;
+  background-color:#80ffd4;
+}
+.res1{
+  height: 40px;
+  border-radius:10px 10px 30px 10px;
+    background-color:#80ffd4;
+  border: 2px solid blue;
+}
+.l1{
+  font-size: 20px;
+  font-weight: bold;
+  color:#9a0000;
+}
+.i1{
+  border: 3px double green;
+}
+.i2{
+  border:3px dashed red;
+}
+.l2{
+  color:#9b0103;
+  font-weight: bold;
+}
+.l2 span{
+  color:#0000fe;
+}
+.text{
+  color:black;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #feff99;
+  text-align: center;
+  margin:50px;
+}
+.text .s1
+{
+  color:#67cb68;
+}
+.s2{
+  color:#dfa166;
+}
+.fi2{
+  padding: 30px;
+  border: 5px dotted red;
+  margin-top: 50px;
+}
